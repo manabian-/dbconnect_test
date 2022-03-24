@@ -10,4 +10,5 @@
     "python.testing.unittestEnabled": true,
     "python.venvPath": "/home/manabu/miniconda3/envs/db_9_1/lib/python3.8/site-packages/pyspark/jars",
     "python.linting.enabled": false,
+    "python.defaultInterpreterPath": "/home/manabu/miniconda3/envs/db_9_1/bin/python"
 }
