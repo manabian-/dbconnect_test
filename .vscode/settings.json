@@ -1,0 +1,13 @@
+{
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true,
+    "python.venvPath": "/home/manabu/miniconda3/envs/db_9_1/lib/python3.8/site-packages/pyspark/jars",
+    "python.linting.enabled": false,
+}
